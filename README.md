@@ -22,16 +22,16 @@ load a file:
 
 ## Wizard Adventure Game
 
-Is a Read Evaluate Print loop for a text adventure game.
-To start:
-`> load ("wizard_adventure_game.lisp")`
+Is a Read Evaluate Print loop for a text adventure game.</br>
+To start:</br>
+`> load ("wizard_adventure_game.lisp")`</br>
 `> (game-repl)`
 
 ## Command Line Interface
-Shows simple examples of input with Lisp
-To start:
-`> load ("command_line_interface.lisp")
-`> (add-five)`
-
-seel file for more
+Shows simple examples of input with Lisp</br>
+To start:</br>
+`> load ("command_line_interface.lisp")</br>
+`> (add-five)`</br>
+</br>
+see file for more
 
